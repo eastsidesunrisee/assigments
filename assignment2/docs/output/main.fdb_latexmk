@@ -1,16 +1,16 @@
 # Fdb version 3
-["xdvipdfmx"] 1636455105 "output/main.xdv" "output/main.pdf" "output/main" 1636455187
+["xdvipdfmx"] 1636458145 "output/main.xdv" "output/main.pdf" "output/main" 1636458795
   "/Users/zainabhameed/Documents/DTU/1. sem st/Programmering/hjemmeopgave 1 kode/java-course-assignments/assignment2/docs/output/main.xdv" 0 -1 0 ""
-  "output/main.xdv" 1636455104 152508 df5346c79626f2315710df7cb3ac9027 "xelatex"
+  "output/main.xdv" 1636458144 152508 1da366a6478f0d68f50e8569a7fc5ec3 "xelatex"
   (generated)
   "output/main.pdf"
   "/Users/zainabhameed/Documents/DTU/1. sem st/Programmering/hjemmeopgave 1 kode/java-course-assignments/assignment2/docs/output/main.pdf"
-["xelatex"] 1636455096 "c:/Users/mmsie/Videos/afl3/assignment2/docs/main.tex" "output/main.xdv" "main" 1636455187
-  "../classes/MovingPoint.java" 1636455058 2795 fa70039968c4d6ae9d306a34871e7d8a ""
-  "../classes/TextAnalysis.java" 1636455058 1659 abd551d79ac203906c83346350c61d77 ""
-  "../classes/TrianglePattern.java" 1636455058 2839 4ec894be3304a8fd7c25e1c1582119d6 ""
-  "DTU.eps" 1636454252 1238390 dfc30cc1a296b974e741e6a586144fdb ""
-  "c:/Users/mmsie/Videos/afl3/assignment2/docs/main.tex" 1636455058 2784 68bcd1a0caf51d82aa04ae5e3b48c65f ""
+["xelatex"] 1636458131 "c:/Users/mmsie/Videos/assigments/assignment2/docs/main.tex" "output/main.xdv" "main" 1636458794
+  "../classes/MovingPoint.java" 1636457884 2795 fa70039968c4d6ae9d306a34871e7d8a ""
+  "../classes/TextAnalysis.java" 1636457884 1659 abd551d79ac203906c83346350c61d77 ""
+  "../classes/TrianglePattern.java" 1636457884 2839 4ec894be3304a8fd7c25e1c1582119d6 ""
+  "DTU.eps" 1636457884 1238390 dfc30cc1a296b974e741e6a586144fdb ""
+  "c:/Users/mmsie/Videos/assigments/assignment2/docs/main.tex" 1636457884 2784 68bcd1a0caf51d82aa04ae5e3b48c65f ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1632821426 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1632831487 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecbl1200.tfm" 1632819224 3584 f0d8415692f282dfbd54d31885c6ba5e ""
@@ -197,14 +197,14 @@
   "c:/texlive/2021/texmf-dist/web2c/texmf.cnf" 1632823046 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
   "c:/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1632832055 5130184 3abe9c2ce138bf3fb87c3e9595365e99 ""
   "c:/texlive/2021/texmf.cnf" 1632831549 713 e69b156964470283e0530f5060668171 ""
-  "forside.png" 1636455058 346287 cf88d799962125a5e676d0951c7d5be8 ""
-  "main.tex" 1636455058 2784 68bcd1a0caf51d82aa04ae5e3b48c65f ""
-  "output/main.aux" 1636455104 1603 0dea60880ae34fe421fc5a66c076bcc5 "xelatex"
-  "output/main.out" 1636455104 440 3e7974aac0e8c66b23e2ce0aaa4e5c3b "xelatex"
-  "problem2.tex" 1636455059 356 de0e0eca92f9fb4201241731a0436769 ""
-  "problem3.tex" 1636455059 3961 f77dfc63093b683b54ab7302ca2f987d ""
+  "forside.png" 1636457884 346287 cf88d799962125a5e676d0951c7d5be8 ""
+  "main.tex" 1636457884 2784 68bcd1a0caf51d82aa04ae5e3b48c65f ""
+  "output/main.aux" 1636458144 1603 0dea60880ae34fe421fc5a66c076bcc5 "xelatex"
+  "output/main.out" 1636458144 440 3e7974aac0e8c66b23e2ce0aaa4e5c3b "xelatex"
+  "problem2.tex" 1636457884 356 de0e0eca92f9fb4201241731a0436769 ""
+  "problem3.tex" 1636457884 3961 f77dfc63093b683b54ab7302ca2f987d ""
   (generated)
-  "output/main.aux"
-  "output/main.xdv"
   "output/main.out"
   "output/main.log"
+  "output/main.xdv"
+  "output/main.aux"
